@@ -1,1 +1,1 @@
-0-bring_me_home: changes the working directory to the user’s home directory.
+0-bring_me_home: changes working directory to the user home.
